@@ -3,5 +3,5 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System. out. println("arbitrary text");    }
+        System. out. println("arbitrary text second");    }
 }
